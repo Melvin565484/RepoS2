@@ -1,0 +1,7 @@
+C:\RepoS2\compra\compra\obj\Debug\compra.csproj.AssemblyReference.cache
+C:\RepoS2\compra\compra\obj\Debug\compra.csproj.CoreCompileInputs.cache
+C:\RepoS2\compra\compra\bin\Debug\compra.exe.config
+C:\RepoS2\compra\compra\bin\Debug\compra.exe
+C:\RepoS2\compra\compra\bin\Debug\compra.pdb
+C:\RepoS2\compra\compra\obj\Debug\compra.exe
+C:\RepoS2\compra\compra\obj\Debug\compra.pdb
