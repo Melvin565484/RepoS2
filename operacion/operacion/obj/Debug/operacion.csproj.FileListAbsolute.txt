@@ -1,0 +1,7 @@
+C:\RepoS2\operacion\operacion\bin\Debug\operacion.exe.config
+C:\RepoS2\operacion\operacion\bin\Debug\operacion.exe
+C:\RepoS2\operacion\operacion\bin\Debug\operacion.pdb
+C:\RepoS2\operacion\operacion\obj\Debug\operacion.csproj.AssemblyReference.cache
+C:\RepoS2\operacion\operacion\obj\Debug\operacion.csproj.CoreCompileInputs.cache
+C:\RepoS2\operacion\operacion\obj\Debug\operacion.exe
+C:\RepoS2\operacion\operacion\obj\Debug\operacion.pdb
