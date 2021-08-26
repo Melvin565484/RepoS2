@@ -30,7 +30,7 @@ namespace enteros
             if(nentero1 > 0)
             {
                 resultado = (nentero / nentero1);
-                Console.WriteLine("Resultado de operacion: ", resultado);
+                Console.WriteLine("Resultado de operacion: {0} ", resultado);
             }
             else
             {
