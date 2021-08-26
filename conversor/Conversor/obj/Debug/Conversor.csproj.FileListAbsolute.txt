@@ -1,0 +1,7 @@
+C:\RepoS2\Conversor\Conversor\bin\Debug\Conversor.exe.config
+C:\RepoS2\Conversor\Conversor\bin\Debug\Conversor.exe
+C:\RepoS2\Conversor\Conversor\bin\Debug\Conversor.pdb
+C:\RepoS2\Conversor\Conversor\obj\Debug\Conversor.csproj.AssemblyReference.cache
+C:\RepoS2\Conversor\Conversor\obj\Debug\Conversor.csproj.CoreCompileInputs.cache
+C:\RepoS2\Conversor\Conversor\obj\Debug\Conversor.exe
+C:\RepoS2\Conversor\Conversor\obj\Debug\Conversor.pdb
